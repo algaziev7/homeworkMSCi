@@ -19,6 +19,8 @@ The Vulnerability Version Checker API provides a service to identify vulnerable 
 Clone the repository and install the required dependencies
     ```
     git clone https://github.com/algaziev7/homeworkMSCi.git
+    ```
+    ```
     cd your-project-directory
     ```
 
@@ -30,7 +32,7 @@ pip install -r requirements.txt
 ## Usage
 
 To run the application, execute the following command:
-```bash
+```
 uvicorn app.main:app --reload
 ```
 
