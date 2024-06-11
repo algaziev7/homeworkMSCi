@@ -17,7 +17,7 @@ The Vulnerability Version Checker API provides a service to identify vulnerable 
 - pip for package installation
 
 Clone the repository and install the required dependencies
-    ```bash
+    ```
     git clone https://github.com/algaziev7/homeworkMSCi.git
     cd your-project-directory
     ```
